@@ -20,4 +20,24 @@ Have fun :)
 
 ## TOC
 
-- [OS and command line](./docs/0_command_line.md)
+### 42
+
+- [Regles exams](./docs/42/exams)
+
+### Peer
+
+- [Comment contribuer a ce repo ?](./docs/)
+
+### Linux
+
+- [OS and command line](./docs/linux/command_line.md)
+- [Tmux](./docs/linux/tmux.md)
+- [vim](./docs/linux/vim.md)
+
+### C
+
+- [Norminette](./docs/C/setup.md)
+
+### Vivre en 42
+
+- [Miam - ou manger ?](./docs/lifestyle/food.md)

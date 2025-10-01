@@ -2,7 +2,7 @@
 
 ## Global
 
-## Le Terminal 
+## Le terminal 
 
 L'OS que nous utiliser est Fedora Linux.
 Il comporte des differences avec MacOS et Windows.
@@ -35,7 +35,11 @@ mkdir # Creer un dossier
 touch # Creer un fichier
 cat # Affiche le contenu d'un fichier
 rm # Supprimer un dossier ou fichier
+
+## Documentation
 man # Affiche le manuel d'une commande
+info # Afficher des informations sur une commande
+[command] -h # Afficher l'aide d'une commande
 ```
 
 ## Bien utiliser son OS (Linux)
