@@ -26,7 +26,7 @@ Have fun :)
 
 ### Peer
 
-- [Comment contribuer a ce repo ?](./docs/)
+- [Comment contribuer a ce repo ?](./docs/42/exams.md)
 
 ### Linux
 
